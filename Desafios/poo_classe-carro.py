@@ -1,4 +1,5 @@
 class Carro:
+
     def __init__(self, velocidade_maxima):
         self.velocidade_maxima = velocidade_maxima
         self.velocidade_atual = 0
