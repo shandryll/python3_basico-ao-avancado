@@ -1,0 +1,10 @@
+tupla = tuple()
+print(type(tupla))
+
+cores = ('verde', 'amarelo', 'azul', 'branco')
+print(cores[0])
+print(cores[-1])
+print(cores[1:])
+print(cores.index('azul'))
+print(cores.count('azul'))
+print(len(cores))
