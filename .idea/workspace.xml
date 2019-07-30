@@ -32,10 +32,11 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fundamentos/poo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Projetos/Area-Circunferencia" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shandryll Cordeiro\Desktop\python3_basico-ao-avancado\Projetos\Area-Circunferencia" />
       <recent name="C:\Users\Shandryll Cordeiro\Desktop\python3_basico-ao-avancado\Fundamentos\poo" />
     </key>
   </component>
@@ -51,8 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.interpolacao">
-    <configuration name="conjuntos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.v_04">
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentos" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentos/conjuntos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="v_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projetos/Area-Circunferencia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentos/dicionarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projetos/Area-Circunferencia/v_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="interpolacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="v_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projetos/Area-Circunferencia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentos/interpolacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projetos/Area-Circunferencia/v_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="v_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projetos/Area-Circunferencia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentos/listas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projetos/Area-Circunferencia/v_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="v_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fundamentos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projetos/Area-Circunferencia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fundamentos/tuplas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projetos/Area-Circunferencia/v_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.interpolacao" />
-        <item itemvalue="Python.conjuntos" />
-        <item itemvalue="Python.dicionarios" />
-        <item itemvalue="Python.tuplas" />
-        <item itemvalue="Python.listas" />
+        <item itemvalue="Python.v_04" />
+        <item itemvalue="Python.v_03" />
+        <item itemvalue="Python.v_02" />
+        <item itemvalue="Python.api" />
+        <item itemvalue="Python.v_01" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +186,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
