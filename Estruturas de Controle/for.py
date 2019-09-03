@@ -19,4 +19,3 @@ for nome in aprovados:
 
 for posicao, nome in enumerate(aprovados):
     print(f'{posicao + 1})', nome)
-    

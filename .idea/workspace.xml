@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="881e6f1b-0a97-4bab-b708-cc1e8c8c1d26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estruturas de Controle/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estruturas de Controle/for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentos/poo/todov7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/poo/todov7.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +19,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>vencida</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,6 +32,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Projetos/Area-Circunferencia" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shandryll Cordeiro\Desktop\python3_basico-ao-avancado\Desafios\poo\loja" />
+      <recent name="C:\Users\Shandryll Cordeiro\Desktop\python3_basico-ao-avancado\Desafios\poo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shandryll Cordeiro\Desktop\python3_basico-ao-avancado\Projetos\Area-Circunferencia" />
       <recent name="C:\Users\Shandryll Cordeiro\Desktop\python3_basico-ao-avancado\Fundamentos\poo" />
@@ -52,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.for">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if-else" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estruturas de Controle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios/poo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estruturas de Controle/if-else.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Shandryll Cordeiro\Desktop\python3_basico-ao-avancado\Desafios\poo\loja\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if_else" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios/poo/loja" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/if_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/poo/loja/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="v_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3_basico-ao-avancado" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projetos/Area-Circunferencia" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios/poo/loja" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projetos/Area-Circunferencia/v_04.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Shandryll Cordeiro\Desktop\python3_basico-ao-avancado\Desafios\poo\loja\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.for" />
         <item itemvalue="Python.while" />
-        <item itemvalue="Python.if-else" />
-        <item itemvalue="Python.if_else" />
-        <item itemvalue="Python.v_04" />
       </list>
     </recent_temporary>
   </component>

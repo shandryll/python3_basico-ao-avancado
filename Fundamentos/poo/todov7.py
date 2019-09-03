@@ -1,6 +1,8 @@
 #!/usr/local/bin/python3
 from datetime import datetime, timedelta
 
+class TarefaNaoEncontrada(Exception):
+    pass
 
 class Projeto:
     def __init__(self, nome):
@@ -34,7 +36,7 @@ class Projeto:
             return [tarefa for tarefa in self.tarefas
                     if tarefa.descricao == descricao][0]
         except IndexError as e:
-            raise
+            raise TarefaNaoEncontrada(str(e))
 
     def __str__(self):
         return f'{self.nome} ({len(self.pendentes())} tarefa(s) pendente(s))'
